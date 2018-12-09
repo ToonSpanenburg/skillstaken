@@ -40,4 +40,14 @@ li a:hover {
 
 .geheel {
     font-family: 'Source Sans Pro', sans-serif;
+    display: grid;
+    grid-template-areas: 1fr 1fr;
+    grid-template-rows: 50 vh 50vh;
+}
+
+p {
+    border: 3px solid black;
+    padding: 20px;
+    margin: 20px;
+    width: 40%;
 }
