@@ -1,1 +1,13 @@
 to do: eigen stijlenbestanden maken, zoals in de opgave van skills 3 gevraagd wordt
+
+
+
+bv
+* {
+margin: 0px;
+padding: 0px;
+
+}
+body{
+font-family: 'Source Sans Pro', sans-serif;
+}
