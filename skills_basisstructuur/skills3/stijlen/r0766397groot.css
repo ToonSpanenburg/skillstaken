@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+    color: black;
+
+}
+
+body {
+    font-family: 'Dancing Script', cursive;
+}
+
+#gaming {
+    display: none;
+}
+
+#primair {
+    display: none;
+}
+
+#luxe {
+    display: contents;
+}
+
+#image {
+    background-image: url(../afbeeldingen/groot.jpg);
+}
+
+
+
+li a {
+    color: black;
+
+}
+
+li a:hover {
+    background-color: black;
+    color: white;
+}
+
+.geheel {
+    font-family: 'Source Sans Pro', sans-serif;
+}
